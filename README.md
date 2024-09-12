@@ -5,14 +5,13 @@ This repository contains all the projects that involves my in depth understandin
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Language</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Python</b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Pycharm IDE: Community Edition</b>
 
 <h2>Program walk-through:</h2>
 
