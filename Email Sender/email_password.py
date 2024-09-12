@@ -1,0 +1,1 @@
+password = "vxdz ajmk qgmj iqgw" # Password gets stored and called from the email_sender.py class
