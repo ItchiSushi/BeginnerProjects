@@ -1,7 +1,7 @@
 <h1>Beginner Projects</h1>
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+This repository contains all the projects that involves my in depth understanding of the basics of Python. These are all simple mini projects which showcase solid code structure, appropriate naming conventions, and meaningful comments. 
 <br />
 
 
