@@ -16,7 +16,8 @@ def main():
         # Display the amount payable each month in Rands and by 2 decimals
         print("The monthly payment for this loan  is: R%.2f " % monthly_payment)
         print("")
-        # Prompt the user to do another calculation. If the user chooses yes, the while loop continues. If the user chooses no, a goodbye message is displayed and the program quits.
+        # Prompt the user to do another calculation. If the user chooses yes, the while loop continues. If the user
+        # chooses no, a goodbye message is displayed and the program quits.
         question = input("Would you like to do another calculation? Yes or No: ").capitalize()
         if question == "Yes":
             print("")
