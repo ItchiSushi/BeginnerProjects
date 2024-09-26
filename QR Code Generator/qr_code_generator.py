@@ -15,4 +15,4 @@ def generate_qrcode(text):
     img.save("qrimg.png")
 
 # Run the function
-generate_qrcode("https://fdsystems.co.za/")
+generate_qrcode("https://www.danielmarais.com")
